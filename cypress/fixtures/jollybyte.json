@@ -1,0 +1,36 @@
+{
+    "menu": {
+        "menu-btn": "menu",
+        "heading": "BROWSE OUR KITCHEN!",
+        "food1": "burgers",
+        "food2": "sandwiches",
+        "food3": "wraps"
+    },
+    "orders": {
+        "meal1": "The Godfather",
+        "meal2": "Porky Spine",
+        "add-order": "add to order",
+        "order-btn": "order",
+        "purchase": "purchase",
+        "procesing-order": "Success! Processing order..."
+    },
+    "about": {
+        "about-btn": "about",
+        "heading": {
+            "1": "OUR STORY",
+            "2": "CONTACT",
+            "3": "LOCATION"
+        }
+    },
+    "app":{
+        "app-btn": "app",
+        "download": "download app"
+    },
+    "home":{
+        "home-btn": "home"
+    },
+    "popular":{
+        "heading": "MOST POPULAR ORDERS",
+        "meal": "The Special"
+    }
+}
